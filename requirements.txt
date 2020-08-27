@@ -1,0 +1,6 @@
+jupyter
+pandas==1.1.1
+geopandas
+matplotlib
+shapely
+rtree
